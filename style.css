@@ -1,0 +1,16 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.desc{
+    font-family: quincy !important;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+}
