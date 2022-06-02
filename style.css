@@ -1,5 +1,6 @@
 *{
     font-family: 'Nunito', sans-serif;
+    overflow: hidden;
 }
 
 #title{
@@ -14,3 +15,15 @@
     font-size: 20px;
     text-align: center;
 }
+
+#navBar {
+    overflow: hidden;
+    background-color: grey;
+    position: relative;
+    width: 120px;
+    height: 1000px;
+    list-style: none;
+    top: -115px;
+    font-size: 20px;
+  }
+  
